@@ -18,7 +18,7 @@
 70C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\package.json134386797899845391 0
 115C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\node_modules\caniuse-lite\data\features\pagevisibility.js134386796644382665 0
 102C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\node_modules\caniuse-lite\data\regions\LS.js134386796642808084 0
-64C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\App.js134386810613903118 0
+64C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\App.js134386815758365623 0
 107C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\node_modules\@parcel\feature-flags\lib\types.d.ts134386796585126750 0
 99C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\node_modules\@parcel\logger\src\Logger.js134386796583856514 0
 104C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\node_modules\@parcel\reporter-cli\src\emoji.js134386796585487860 0
@@ -32,7 +32,7 @@
 132C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\node_modules\caniuse-lite\data\features\cross-document-view-transitions.js134386796637893619 0
 125C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\node_modules\@parcel\workers\test\integration\workerfarm\console.js134386796638257866 0
 99C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\node_modules\postcss-value-parser\LICENSE134386796590994495 0
-68C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\.gitignore134386814943604229 0
+68C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\.gitignore134386819495710832 0
 105C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\node_modules\utility-types\dist\mapped-types.js134386796599434017 0
 132C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\node_modules\@parcel\config-default\node_modules\@parcel\optimizer-swc\lib134386797945197621 1
 146C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\node_modules\@parcel\reporter-dev-server\node_modules\@parcel\codeframe\src\codeframe.js134386796586652311 0
@@ -45,7 +45,7 @@
 79C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\node_modules\escalade134386797850864010 1
 169C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\node_modules\@parcel\core\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.darwin-x64.node134386796587279869 0
 107C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\node_modules\@parcel\profiler\test\Tracer.test.js134386796637079774 0
-62C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\dist134386813371993148 1
+62C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\dist134386815765849135 1
 122C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\node_modules\@parcel\core\node_modules\@parcel\rust\lib\index.js134386796584748361 0
 87C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\node_modules\@parcel\core\lib134386797871929257 1
 129C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\node_modules\@swc\helpers\_\_class_apply_descriptor_update\package.json134386796631032387 0
@@ -521,7 +521,7 @@
 109C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\node_modules\@swc\helpers\_\_ts_values\package.json134386796632033387 0
 90C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\node_modules\type-fest\readme.md134386796587122700 0
 87C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\node_modules\type-fest\source134386797870487306 1
-87C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\dist\ReactNamaste.cb65f72e.js134386813371836068 0
+87C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\dist\ReactNamaste.cb65f72e.js134386815765661507 0
 121C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\node_modules\lightningcss\node_modules\detect-libc\package.json134386796584878536 0
 85C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\node_modules\type-fest\ts41134386797870592687 1
 93C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\node_modules\react-dom\profiling.js134386797880267887 0
@@ -3993,7 +3993,7 @@
 82C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\node_modules\.bin\semver134386796667506823 0
 86C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\node_modules\.bin\semver.cmd134386796667506823 0
 98C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\node_modules\.bin\update-browserslist-db134386796667506823 0
-73C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\dist\index.html134386813371836068 0
-88C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\dist\ReactNamaste.9e4c6fd2.css134386813371836068 0
-92C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\dist\ReactNamaste.9e4c6fd2.css.map134386813371836068 0
-91C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\dist\ReactNamaste.cb65f72e.js.map134386813371919627 0
+73C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\dist\index.html134386815765375159 0
+88C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\dist\ReactNamaste.9e4c6fd2.css134386815765841443 0
+92C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\dist\ReactNamaste.9e4c6fd2.css.map134386815765849135 0
+91C:\Users\mrgou\OneDrive\Desktop\Garima_react\ReactNamaste\dist\ReactNamaste.cb65f72e.js.map134386815765708302 0
