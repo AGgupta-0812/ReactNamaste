@@ -7,9 +7,8 @@ const parent = React.createElement(
     React.createElement(
         "div", 
         {id: "child"},
-        [React.createElement("h1", {}, "Iam h1 tag!!"), React.createElement("h2", {}, "Iam h2 tag!!"),
+        React.createElement("h1", {}, "Iam h1 tag!!"),
 
-        ]
         )
 
 );
@@ -17,4 +16,4 @@ const parent = React.createElement(
 
    const root = ReactDOM.createRoot(document.getElementById("root"));
 
-   root.render(parent);
+   root.render(parent); 
