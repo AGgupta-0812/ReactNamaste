@@ -1,0 +1,24 @@
+{
+  "name": "reactnamaste",
+  "version": "1.0.0",
+  "description": "This is React Course",
+  "keywords": [],
+  "homepage": "https://github.com/AGgupta-0812/ReactNamaste#readme",
+  "bugs": {
+    "url": "https://github.com/AGgupta-0812/ReactNamaste/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AGgupta-0812/ReactNamaste.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
